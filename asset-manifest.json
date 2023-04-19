@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/dsu_fest_website/static/css/main.2266ec31.css",
-    "main.js": "/dsu_fest_website/static/js/main.353e8119.js",
+    "main.css": "/dsu_fest_website/static/css/main.101fc132.css",
+    "main.js": "/dsu_fest_website/static/js/main.15fc126a.js",
     "static/js/787.2de6bc1b.chunk.js": "/dsu_fest_website/static/js/787.2de6bc1b.chunk.js",
     "static/media/SS3.png": "/dsu_fest_website/static/media/SS3.fec5206f4975f886fa58.png",
     "static/media/SS1.png": "/dsu_fest_website/static/media/SS1.0e5e6f5c60adf25accff.png",
     "static/media/SS6.png": "/dsu_fest_website/static/media/SS6.bc410d437bd251f4b2cb.png",
     "static/media/SS4.png": "/dsu_fest_website/static/media/SS4.102fedb9608bbdf341eb.png",
     "static/media/SS2.png": "/dsu_fest_website/static/media/SS2.0c2c597b55bf319b499b.png",
+    "static/media/promo.mp4": "/dsu_fest_website/static/media/promo.ff0f3bb497d2bd19230b.mp4",
     "static/media/SS5.png": "/dsu_fest_website/static/media/SS5.cff25f8201b434e24c5d.png",
     "static/media/SS7.png": "/dsu_fest_website/static/media/SS7.d3375d7853a8b52c013d.png",
-    "static/media/home-0.jpg": "/dsu_fest_website/static/media/home-0.fe47a25158a331f76ce8.jpg",
     "static/media/dsu_logo.png": "/dsu_fest_website/static/media/dsu_logo.563e62f87c00a4096ec5.png",
+    "static/media/Black_And_White_Business_Logo-removebg-preview.png": "/dsu_fest_website/static/media/Black_And_White_Business_Logo-removebg-preview.13d5cdea1f9559bf6e21.png",
     "index.html": "/dsu_fest_website/index.html",
-    "main.2266ec31.css.map": "/dsu_fest_website/static/css/main.2266ec31.css.map",
-    "main.353e8119.js.map": "/dsu_fest_website/static/js/main.353e8119.js.map",
+    "main.101fc132.css.map": "/dsu_fest_website/static/css/main.101fc132.css.map",
+    "main.15fc126a.js.map": "/dsu_fest_website/static/js/main.15fc126a.js.map",
     "787.2de6bc1b.chunk.js.map": "/dsu_fest_website/static/js/787.2de6bc1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2266ec31.css",
-    "static/js/main.353e8119.js"
+    "static/css/main.101fc132.css",
+    "static/js/main.15fc126a.js"
   ]
 }
