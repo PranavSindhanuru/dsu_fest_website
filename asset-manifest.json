@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dsu_fest_website/static/css/main.101fc132.css",
-    "main.js": "/dsu_fest_website/static/js/main.15fc126a.js",
+    "main.css": "/dsu_fest_website/static/css/main.c930898c.css",
+    "main.js": "/dsu_fest_website/static/js/main.281f4d16.js",
     "static/js/787.2de6bc1b.chunk.js": "/dsu_fest_website/static/js/787.2de6bc1b.chunk.js",
     "static/media/SS3.png": "/dsu_fest_website/static/media/SS3.fec5206f4975f886fa58.png",
     "static/media/SS1.png": "/dsu_fest_website/static/media/SS1.0e5e6f5c60adf25accff.png",
@@ -12,14 +12,13 @@
     "static/media/SS5.png": "/dsu_fest_website/static/media/SS5.cff25f8201b434e24c5d.png",
     "static/media/SS7.png": "/dsu_fest_website/static/media/SS7.d3375d7853a8b52c013d.png",
     "static/media/dsu_logo.png": "/dsu_fest_website/static/media/dsu_logo.563e62f87c00a4096ec5.png",
-    "static/media/Black_And_White_Business_Logo-removebg-preview.png": "/dsu_fest_website/static/media/Black_And_White_Business_Logo-removebg-preview.13d5cdea1f9559bf6e21.png",
     "index.html": "/dsu_fest_website/index.html",
-    "main.101fc132.css.map": "/dsu_fest_website/static/css/main.101fc132.css.map",
-    "main.15fc126a.js.map": "/dsu_fest_website/static/js/main.15fc126a.js.map",
+    "main.c930898c.css.map": "/dsu_fest_website/static/css/main.c930898c.css.map",
+    "main.281f4d16.js.map": "/dsu_fest_website/static/js/main.281f4d16.js.map",
     "787.2de6bc1b.chunk.js.map": "/dsu_fest_website/static/js/787.2de6bc1b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.101fc132.css",
-    "static/js/main.15fc126a.js"
+    "static/css/main.c930898c.css",
+    "static/js/main.281f4d16.js"
   ]
 }
